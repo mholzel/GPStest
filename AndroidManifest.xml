@@ -12,7 +12,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@android:drawable/ic_menu_mylocation"
+        android:icon="@drawable/ic_menu_mylocation"
         android:label="GPS Test" >
         <activity android:name="io.pcess.gpstest.LocationActivity" >
             <intent-filter>
